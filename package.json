@@ -1,0 +1,20 @@
+{
+  "name": "hexactitude-cli",
+  "version": "1.0.0",
+  "description": "This package is meant to easily manage the Hexactitude folder, in order to be able to sync it over machines, to execute scripts ( setup of packages and libs I use / develop and/or contribute to, and set symlink)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyphaene/hexactitude-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyphaene/hexactitude-cli/issues"
+  },
+  "homepage": "https://github.com/hyphaene/hexactitude-cli#readme"
+}

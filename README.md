@@ -1,5 +1,7 @@
 # Purpose
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hyphaene-npm/hexafire.svg)](https://greenkeeper.io/)
+
 This package is meant to easily manage the Hexactitude folder, in order to be able to sync it over machines, to execute scripts ( setup of packages and libs I use / develop and/or contribute to, and set symlink)
 
 # Installation
